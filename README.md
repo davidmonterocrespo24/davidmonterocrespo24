@@ -29,13 +29,15 @@ if __name__ == '__main__':
 
 
 Get in touch
+
 Twitter: https://twitter.com/DMonteroCrespo1
 
 Linkedin: ://www.linkedin.com/in/david-montero-crespo-8a77b0142/
 
-Youtube: https://www.youtube.com/channel/UCM93kgnjXu393jgKjjSkUjQ
+Apps Odoo = 'https://apps.odoo.com/apps/modules/browse?author=David%20Montero%20Crespo'
 
 Web Site: http://odoonext.com
+
 Email:  info@odoonext.com
 
 

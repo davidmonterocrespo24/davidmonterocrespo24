@@ -41,3 +41,6 @@ Web Site: http://odoonext.com
 Email:  info@odoonext.com
 
 
+For the value of a cup of coffee, you help us move forward with our publication.
+
+https://www.paypal.com/donate/?hosted_button_id=24R4LARU9AP3W

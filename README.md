@@ -32,9 +32,9 @@ Get in touch
 
 Twitter: https://twitter.com/DMonteroCrespo1
 
-Linkedin: ://www.linkedin.com/in/david-montero-crespo-8a77b0142/
+Linkedin: https:www.linkedin.com/in/david-montero-crespo-8a77b0142/
 
-Apps Odoo = https://apps.odoo.com/apps/modules/browse?author=David%20Montero%20Crespo
+Apps Odoo: https://apps.odoo.com/apps/modules/browse?author=David%20Montero%20Crespo
 
 Web Site: http://odoonext.com
 

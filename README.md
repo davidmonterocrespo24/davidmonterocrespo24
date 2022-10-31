@@ -45,6 +45,13 @@ if __name__ == '__main__':
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmonterocrespo24&hide=html,max,processing,puredata&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
+  <a href="https://github.com/davidmonterocrespo24/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="davidmonterocrespo24's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=davidmonterocrespo24&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</div>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=davidmonterocrespo24.davidmonterocrespo24)
+
 
 
 

@@ -37,7 +37,7 @@ if __name__ == '__main__':
 
 ### David Montero Crespo in GitHub
 
-<a href="https://github.com/davidmonterocrespo24">
+<!--a href="https://github.com/davidmonterocrespo24">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidmonterocrespo24&show_icons=true&line_height=40&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="davidmonterocrespo24's GitHub Stats" />
 </a>
 
@@ -47,7 +47,7 @@ if __name__ == '__main__':
 
   <a href="https://github.com/davidmonterocrespo24/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="davidmonterocrespo24's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=davidmonterocrespo24&theme=monokai-metallian&hide_border=true"/>
-  </a>
+  </a-->
 </div>
      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="davidmonterocrespo24's streak" src="href=https://activity-graph.herokuapp.com/graph?username=davidmonterocrespo24&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true"/>

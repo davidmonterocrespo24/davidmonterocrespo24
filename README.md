@@ -49,11 +49,9 @@ if __name__ == '__main__':
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="davidmonterocrespo24's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=davidmonterocrespo24&theme=monokai-metallian&hide_border=true"/>
   </a-->
 </div>
-     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="davidmonterocrespo24's streak" src="href=https://activity-graph.herokuapp.com/graph?username=davidmonterocrespo24&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true"/>
-  </a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidmonterocrespo24&show_icons=true&theme=radical)
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=davidmonterocrespo24)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=davidmonterocrespo24)](https://git.io/streak-stats)
   
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=davidmonterocrespo24.davidmonterocrespo24)
 

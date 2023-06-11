@@ -40,6 +40,7 @@ if __name__ == '__main__':
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidmonterocrespo24&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmonterocrespo24&hide_progress=true)
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=davidmonterocrespo24)](https://git.io/streak-stats)
   

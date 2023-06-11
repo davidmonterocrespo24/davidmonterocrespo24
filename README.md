@@ -49,6 +49,7 @@ if __name__ == '__main__':
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="davidmonterocrespo24's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=davidmonterocrespo24&theme=monokai-metallian&hide_border=true"/>
   </a-->
 </div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidmonterocrespo24&show_icons=true&theme=radical)
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=davidmonterocrespo24)](https://git.io/streak-stats)

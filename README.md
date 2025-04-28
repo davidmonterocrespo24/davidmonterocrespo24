@@ -1,4 +1,4 @@
-https://img.freepik.com/premium-photo/china-mid-autumn-festival-generative-ai_145713-5473.jpg?w=996
+[![Twitter Badge](https://img.freepik.com/premium-photo/china-mid-autumn-festival-generative-ai_145713-5473.jpg?w=996)
 
 [![Website Badge](https://img.shields.io/badge/Website-informational?style=flat-square&logo=firefox-browser&logoColor=white&color=4AB197)](http://odoonext.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=flat-square&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/DMonteroCrespo1)

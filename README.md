@@ -129,7 +129,3 @@ if __name__ == '__main__':
   </a>
 </p>
 
-
-For the value of a cup of coffee, you help us move forward with our publication. Make a donation by Paypal
-
-https://www.paypal.com/donate/?hosted_button_id=24R4LARU9AP3W

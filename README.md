@@ -40,7 +40,7 @@ if __name__ == '__main__':
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davidmonterocrespo24&repo=esp32s3-arcade-3d&theme=radical" />
 </a>
 <a href="https://github.com/davidmonterocrespo24/odoo_micro_saas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davidmonterocrespo24&repo=odoo_micro_saas&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davidmonterocrespo24&repo=OdooMicroSaas&theme=radical" />
 </a>
 <a href="https://github.com/davidmonterocrespo24/DaveLovable">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davidmonterocrespo24&repo=DaveLovable&theme=radical" />

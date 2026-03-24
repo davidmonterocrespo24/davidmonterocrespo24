@@ -28,7 +28,6 @@ if __name__ == '__main__':
     me = DavidMonteroCrespo()
 
 `````` 
-
 ---
 
 ## Top Projects

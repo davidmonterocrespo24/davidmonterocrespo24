@@ -31,6 +31,24 @@ if __name__ == '__main__':
 
 
 
+---
+
+## Top Projects
+
+<a href="https://github.com/davidmonterocrespo24/velxio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davidmonterocrespo24&repo=velxio&theme=radical" />
+</a>
+<a href="https://github.com/davidmonterocrespo24/esp32s3-arcade-3d">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davidmonterocrespo24&repo=esp32s3-arcade-3d&theme=radical" />
+</a>
+<a href="https://github.com/davidmonterocrespo24/odoo_micro_saas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davidmonterocrespo24&repo=odoo_micro_saas&theme=radical" />
+</a>
+<a href="https://github.com/davidmonterocrespo24/DaveLovable">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davidmonterocrespo24&repo=DaveLovable&theme=radical" />
+</a>
+
+---
 
 
 ### David Montero Crespo in GitHub
@@ -47,69 +65,69 @@ if __name__ == '__main__':
 
 
 
-### Dev Skills
+---
 
-#### Code Technologies
+## Tech Stack
 
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat-square&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat-square&logo=Node.JS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-ReactiveX-informational?style=flat-square&logo=ReactiveX&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Electron-informational?style=flat-square&logo=Electron&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Capacitor-informational?style=flat-square&logo=Capacitor&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Cordova-informational?style=flat-square&logo=apache-cordova&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Processing-informational?style=flat-square&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-p5JS-informational?style=flat-square&logo=p5.js&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JSON-informational?style=flat-square&logo=json&logoColor=white&color=4AB197)
+#### Languages
+![Python](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&logoColor=white&color=4AB197)
+![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=TypeScript&logoColor=white&color=4AB197)
+![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=4AB197)
+![C](https://img.shields.io/badge/C-informational?style=flat-square&logo=c&logoColor=white&color=4AB197)
+![Java](https://img.shields.io/badge/Java-informational?style=flat-square&logo=openjdk&logoColor=white&color=4AB197)
+![PHP](https://img.shields.io/badge/PHP-informational?style=flat-square&logo=php&logoColor=white&color=4AB197)
+![Shell](https://img.shields.io/badge/Shell-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=4AB197)
 
-#### Website Technologies
+#### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-informational?style=flat-square&logo=html5&logoColor=white&color=e96228)
+![CSS3](https://img.shields.io/badge/CSS3-informational?style=flat-square&logo=css3&logoColor=white&color=c76494)
+![React](https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=white&color=4AB197)
+![Angular](https://img.shields.io/badge/Angular-informational?style=flat-square&logo=angular&logoColor=white&color=4AB197)
+![QWeb](https://img.shields.io/badge/QWeb-informational?style=flat-square&logo=odoo&logoColor=white&color=714B67)
 
-![](https://img.shields.io/badge/MarkUp-HTML-informational?style=flat-square&logo=html5&logoColor=white&color=#e96228)
-![](https://img.shields.io/badge/MarkUp-XML-informational?style=flat-square&logo=html5&logoColor=white&color=#e96228)
-![](https://img.shields.io/badge/MarkUp-QWeb-informational?style=flat-square&logo=html5&logoColor=white&color=#e96228)
+#### Backend & ERP
+![Odoo](https://img.shields.io/badge/Odoo-informational?style=flat-square&logo=odoo&logoColor=white&color=714B67)
+![Node.js](https://img.shields.io/badge/Node.js-informational?style=flat-square&logo=Node.js&logoColor=white&color=4AB197)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=4AB197)
+![MySQL](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4AB197)
+![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=c76494)
-![](https://img.shields.io/badge/Style-SCSS-informational?style=flat-square&logo=css3&logoColor=white&color=c76494)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat-square&logo=Sass&logoColor=white&color=c76494)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat-square&logo=Stylus&logoColor=white&color=c76494)
+#### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white&color=222222)
+![Nginx](https://img.shields.io/badge/Nginx-informational?style=flat-square&logo=nginx&logoColor=white&color=222222)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-informational?style=flat-square&logo=kubernetes&logoColor=white&color=222222)
+![Git](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=white&color=222222)
+![VSCode](https://img.shields.io/badge/VSCode-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=222222)
+![Linux](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=linux&logoColor=white&color=222222)
 
-![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat-square&logo=Jasmine&logoColor=white&color=8a4182)
-![](https://img.shields.io/badge/Test-Protractor-informational?style=flat-square&logo=Protractor&logoColor=white&color=8a4182)
+#### Embedded & IoT
+![Arduino](https://img.shields.io/badge/Arduino-informational?style=flat-square&logo=Arduino&logoColor=white&color=00979D)
+![ESP32](https://img.shields.io/badge/ESP32-informational?style=flat-square&logo=espressif&logoColor=white&color=00979D)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-informational?style=flat-square&logo=Raspberry-Pi&logoColor=white&color=00979D)
 
-#### Others Technologies
+#### AI & LLMs
+![LLMs](https://img.shields.io/badge/LLMs-informational?style=flat-square&logo=openai&logoColor=white&color=8B5CF6)
+![AutoGen](https://img.shields.io/badge/AutoGen-informational?style=flat-square&logo=microsoft&logoColor=white&color=8B5CF6)
+![Multi--Agent](https://img.shields.io/badge/Multi--Agent_Systems-informational?style=flat-square&logo=robot-framework&logoColor=white&color=8B5CF6)
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=222222)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=222222)
-![](https://img.shields.io/badge/VPS-Linode-informational?style=flat-square&logo=linode&logoColor=white&color=222222)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=222222)
-![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat-square&logo=nginx&logoColor=white&color=222222)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat-square&logo=Adobe-Photoshop&logoColor=white&color=222222)
-![](https://img.shields.io/badge/Tools-GIMP-informational?style=flat-square&logo=GIMP&logoColor=white&color=222222)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat-square&logo=Adobe-Illustrator&logoColor=white&color=222222)
-![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=222222)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat-square&logo=GitHub&logoColor=white&color=222222)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat-square&logo=GitLab&logoColor=white&color=222222)
-![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat-square&logo=Bitbucket&logoColor=white&color=222222)
-![](https://img.shields.io/badge/Hardware-RaspberryPi-informational?style=flat-square&logo=Raspberry-Pi&logoColor=white&color=222222)
-![](https://img.shields.io/badge/Hardware-Arduino-informational?style=flat-square&logo=Arduino&logoColor=white&color=222222)
-****
+---
 
-Get in touch
+## Get in Touch
 
-Twitter: https://twitter.com/DMonteroCrespo1
+- Twitter: [@DMonteroCrespo1](https://twitter.com/DMonteroCrespo1)
+- LinkedIn: [davidmonterocrespo](https://www.linkedin.com/in/davidmonterocrespo/)
+- Odoo Apps: [David Montero Crespo](https://apps.odoo.com/apps/modules/browse?author=David%20Montero%20Crespo)
+- Website: [odoonext.com](http://odoonext.com)
+- Email: info@odoonext.com
 
-Linkedin: https://www.linkedin.com/in/davidmonterocrespo/
+---
 
-Apps Odoo: https://apps.odoo.com/apps/modules/browse?author=David%20Montero%20Crespo
-
-Web Site: http://odoonext.com
-
-Email:  info@odoonext.com
-
+<p align="center">
+  If you find my work useful, consider supporting me!<br/>
+  <a href="https://www.paypal.com/donate/?hosted_button_id=24R4LARU9AP3W">
+    <img src="https://img.shields.io/badge/Donate-PayPal-blue?style=for-the-badge&logo=paypal" alt="Donate with PayPal" />
+  </a>
+</p>
 
 
 For the value of a cup of coffee, you help us move forward with our publication. Make a donation by Paypal

@@ -10,13 +10,23 @@ class DavidMonteroCrespo(self):
         self.web = 'https://odoonext.com'
         self.twitter = '@DMonteroCrespo1'
         
+        self.roles = [
+            'Odoo ERP Specialist',
+            'Full Stack Developer',
+            'IoT & Embedded Systems Enthusiast',
+            'AI Tools Builder',
+        ]
+
         self.code = {
+            'languages': ['Python', 'TypeScript', 'JavaScript', 'C', 'Java', 'PHP', 'Shell'],
             'erp': ['Odoo'],
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap','React','Angular'],
-            'backend': ['Python', 'PHP', 'Java', 'JavaScript'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'React', 'Angular', 'QWeb'],
+            'backend': ['Python', 'Node.js', 'PHP', 'Java'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'MongoDB'],
-            'devops': ['Docker', 'Nginx','Kubernetes' ,'Docker-compose'],            
-        },
+            'devops': ['Docker', 'Docker Compose', 'Nginx', 'Kubernetes'],
+            'embedded': ['Arduino', 'ESP32', 'Raspberry Pi'],
+            'ai': ['LLMs', 'AutoGen', 'Multi-Agent Systems'],
+        }
         self.apps = 'https://apps.odoo.com/apps/modules/browse?author=David%20Montero%20Crespo'
         
 

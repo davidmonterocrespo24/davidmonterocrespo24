@@ -1,4 +1,7 @@
-<img width="1400" height="364" alt="image" src="https://github.com/user-attachments/assets/d3090ebb-26da-42b2-af2e-7c66a8fbaf5d" />
+<img src="https://github.com/user-attachments/assets/d3090ebb-26da-42b2-af2e-7c66a8fbaf5d" 
+     width="100%" 
+     height="200" 
+     style="object-fit: cover;" />
 
  Hi, I'm David Montero Crespo
 

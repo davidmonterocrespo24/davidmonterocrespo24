@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="TU_IMAGEN_RECORTADA.png" width="900"/>
-</p>
+<img src="https://github.com/user-attachments/assets/d3090ebb-26da-42b2-af2e-7c66a8fbaf5d"
+       width="800"
+     />
+
+       
  Hi, I'm David Montero Crespo
 
 Creator of **Velxio**  

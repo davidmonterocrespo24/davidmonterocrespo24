@@ -1,3 +1,9 @@
+<img width="1400" height="764" alt="image" src="https://github.com/user-attachments/assets/d3090ebb-26da-42b2-af2e-7c66a8fbaf5d" />
+
+ Hi, I'm David Montero Crespo
+
+Creator of **Velxio**  
+
 [![Website Badge](https://img.shields.io/badge/Website-informational?style=flat-square&logo=firefox-browser&logoColor=white&color=4AB197)](http://odoonext.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=flat-square&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/DMonteroCrespo1)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/davidmonterocrespo/)
@@ -11,7 +17,8 @@ class DavidMonteroCrespo(self):
         self.twitter = '@DMonteroCrespo1'
         
         self.roles = [
-            'Odoo ERP Specialist',
+            'Creator of Velxio',
+            'ERP Specialist',
             'Full Stack Developer',
             'IoT & Embedded Systems Enthusiast',
             'AI Tools Builder',

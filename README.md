@@ -1,9 +1,4 @@
-<img src="https://github.com/user-attachments/assets/d3090ebb-26da-42b2-af2e-7c66a8fbaf5d"
-       width="800"
-     />
-
-       
- Hi, I'm David Montero Crespo
+Hi, I'm David Montero Crespo
 
 Creator of **Velxio**  
 

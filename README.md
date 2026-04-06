@@ -129,8 +129,7 @@ if __name__ == '__main__':
 - Twitter: [@DMonteroCrespo1](https://twitter.com/DMonteroCrespo1)
 - LinkedIn: [davidmonterocrespo](https://www.linkedin.com/in/davidmonterocrespo/)
 - Odoo Apps: [David Montero Crespo](https://apps.odoo.com/apps/modules/browse?author=David%20Montero%20Crespo)
-- Website: [odoonext.com](http://odoonext.com)
-- Email: info@odoonext.com
+- Email: davidmonterocrespo24@gmail.com
 
 ---
 
